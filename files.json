@@ -1,0 +1,102 @@
+[
+  {
+    "path": "downloads/PetSquadCompanion-8pro-1.0.1.face",
+    "bytes": 1465835,
+    "sha256": "d104f88144861f9f1ce6b19659b9a800c5a21c6384386689676865eff475d92d"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-8pro-1.0.1.info",
+    "bytes": 199,
+    "sha256": "05a98e9008216d91f21533bee0f79f507155b56b5e2b0ea23b5e381e0882133c"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-band10-1.0.1.face",
+    "bytes": 1091447,
+    "sha256": "619d9df0551513e5b9469569b73e333e91df9bb48745eca9602291fa86e625ac"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-band10-1.0.1.info",
+    "bytes": 197,
+    "sha256": "902275964ad2f2c9264f775d8ab1849f2373e0ecf5241d2908e5641596250ed1"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-band9-1.0.1.face",
+    "bytes": 1021113,
+    "sha256": "ad3814baf7cdb3e8c4c4811df8178e8323f53f8d265f25578315c86ee88ae5e0"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-band9-1.0.1.info",
+    "bytes": 196,
+    "sha256": "2ba122ec64632160bef6a8cb75e063070295cb8e5b833f9709afe5be86fec2af"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-pro-1.0.1.face",
+    "bytes": 1465830,
+    "sha256": "ae4cd5240ed94fe5e748f45a0f06d7c276df6958f3b608fe713d789dded43483"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-pro-1.0.1.info",
+    "bytes": 199,
+    "sha256": "fdc40ec4401d572ed05187e12122773ee57b4b4d729d3cc950efcd91f5f2d3d5"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-rw-1.0.1.face",
+    "bytes": 1805628,
+    "sha256": "5fd5e84ea972a22807ef4322604ae7aef45a26875c738081daaf0b773b344567"
+  },
+  {
+    "path": "downloads/PetSquadCompanion-rw-1.0.1.info",
+    "bytes": 200,
+    "sha256": "c5a973d5575f74b881ba892878a9e890702bdaf74ce12692deb9e74c97825164"
+  },
+  {
+    "path": "manifest_v2.json",
+    "bytes": 3860,
+    "sha256": "65981f43d283b83b62545c24d802e32602e857f735e3b0839eb2e2aff6a4f1f7"
+  },
+  {
+    "path": "media/band10-two-pets-rounded.png",
+    "bytes": 166238,
+    "sha256": "231e51085641d62d4a3799e013db7a76e1a8579fb050cefd04ccef7a347bd676"
+  },
+  {
+    "path": "media/cover.jpg",
+    "bytes": 611585,
+    "sha256": "e8b85a9f51177e40d520f2ae3fa14fe3f46b3741b85d3c5ba746a7f284cba318"
+  },
+  {
+    "path": "media/icon.png",
+    "bytes": 5791,
+    "sha256": "dc01161ec9cda576899152fdac121a3cd4fce420a231bfad8e19923a71e70657"
+  },
+  {
+    "path": "media/pro-aod-rounded.png",
+    "bytes": 14398,
+    "sha256": "a0090ebc87db7929bab2d34c0b5cdfc576b923ba2fc20e2206061b871949fe6c"
+  },
+  {
+    "path": "media/pro-day-rounded.png",
+    "bytes": 266299,
+    "sha256": "53920a9921f2229c5648efa6e4f060155106f8d7dbe656445355776a6b4bbb33"
+  },
+  {
+    "path": "media/pro-night-rounded.png",
+    "bytes": 243924,
+    "sha256": "0900432fbee5c91e6f26ec173b3a91cfbeaf0a4314b6e806db4d31deadc1fccb"
+  },
+  {
+    "path": "media/pro-partners-rounded.png",
+    "bytes": 44580,
+    "sha256": "e7a660bdf7510b6c981b32e49a8d488f85f29b70add5d2e78f8ec3b16cb150a4"
+  },
+  {
+    "path": "media/rw-single-pet-rounded.png",
+    "bytes": 360977,
+    "sha256": "7e1288c4f291395d524e485ab6c508207d9db4109ae20fba56ca69afedd22461"
+  },
+  {
+    "path": "详情文案.txt",
+    "bytes": 2411,
+    "sha256": "9ca02640ce281368fe4817e7e68f1ba672fb2f7aec72289dc426bee80f925ff3"
+  }
+]

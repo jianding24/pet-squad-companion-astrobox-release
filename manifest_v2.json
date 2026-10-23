@@ -1,0 +1,132 @@
+{
+  "item": {
+    "id": "979810071001",
+    "restype": "watchface",
+    "name": "萌宠营地",
+    "description": "免费的萌宠营地表盘。狐狸、兔子和小鸡可选单宠、双宠或三宠，展示时间日期、电量和步数，支持日夜场景与黑底宠物息屏。联动已激活的萌宠归队，随游戏进度解锁更多伙伴、成长装饰和章节纪念。",
+    "preview": [
+      "media/pro-day-rounded.png",
+      "media/pro-night-rounded.png",
+      "media/pro-aod-rounded.png",
+      "media/pro-partners-rounded.png",
+      "media/band10-two-pets-rounded.png",
+      "media/rw-single-pet-rounded.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "了解萌宠归队应用",
+      "url": "https://afdian.com/item/722ed638bce111f18a365254001e7c00",
+      "icon": "shopping-cart"
+    },
+    {
+      "title": "爱发电主页",
+      "url": "https://www.ifdian.net/a/a_wu__",
+      "icon": "house"
+    },
+    {
+      "title": "设备码兑换入口",
+      "url": "https://awuwatch.ccwu.cc/?appId=pet_column_sort",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-band9-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-pro-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-band10-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-band10-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-pro-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-rw-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-band10-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.1",
+      "versionCode": 14,
+      "file_name": "downloads/PetSquadCompanion-band10-1.0.1.face",
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修正12小时制下自动昼夜场景判断，保留系统时间显示方式。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
